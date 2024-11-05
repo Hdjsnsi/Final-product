@@ -11,7 +11,7 @@ Mulitverse War
 + Dung lượng trống: 1GB (Dung lượng sản phẩm thấp hơn nhưng đây là dự trù cho những tình huống sau này)
 
 2.Cách sử dụng:
-+ Khi tải về hay unzip folder rồi vào folder đó kiếm file exe có hình unity với tên trùng với folder (lưu ý khi ấn quá nhiều lần sẽ làm nó tạo ra nhiều cửa sổ và mỗi cửa sổ sẽ có khả năng chạy độc lập vì vẫn đang trong sản phẩm được để ở chế độ Developer )
++ Khi tải về hay unzip folder rồi vào folder đó kiếm file exe có hình unity với tên trùng với folder (lưu ý khi ấn quá nhiều lần sẽ làm nó tạo ra nhiều cửa sổ và mỗi cửa sổ sẽ có khả năng chạy độc lập vì sản phẩm vẫn đang được để ở chế độ Developer để phát triển)
 
 3.Các chức năng cơ bản:
 + Tạo lobby (phòng chờ) để cho người khác có thể tham gia
