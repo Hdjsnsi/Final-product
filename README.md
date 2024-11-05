@@ -1,6 +1,7 @@
 Mulitverse War
 
 +Đây là sẳn phẩm của nhóm 6 về game chiến tranh nhưng sẽ chủ yếu nói về cách các tựa game hoạt động trong không gian mạng 
+
 1.Cấu hình máy tối thiểu 
 
 +Hệ điều hành: Window 10 trở lên 
