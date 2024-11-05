@@ -1,12 +1,14 @@
 Mulitverse War
-Đây là sẳn phẩm của nhóm 6 về game chiến tranh nhưng sẽ chủ yếu nói về cách các tựa game hoạt động trong không gian mạng 
+
++Đây là sẳn phẩm của nhóm 6 về game chiến tranh nhưng sẽ chủ yếu nói về cách các tựa game hoạt động trong không gian mạng 
 1.Cấu hình máy tối thiểu 
-Hệ điều hành: Window 10 trở lên 
-Loại hệ thống: 64-bit base processor
-Bộ vi xử lí: i3 đời 3 trở lên hoặc bất kì loại CPU nào có thông số xử lí sau: 2.4GHz 4 nhân
-Bộ nhớ Ram: 4 GB RAM
-Bộ xử lí đồ hoạ: Máy nên có card đồ hoạ rời
-Dung lượng trống: 1GB (Dung lượng sản phẩm thấp hơn nhưng đây là dự trù cho những tình huống sau này)
+
++Hệ điều hành: Window 10 trở lên 
++Loại hệ thống: 64-bit base processor
++Bộ vi xử lí: i3 đời 3 trở lên hoặc bất kì loại CPU nào có thông số xử lí sau: 2.4GHz 4 nhân
++Bộ nhớ Ram: 4 GB RAM
++Bộ xử lí đồ hoạ: Máy nên có card đồ hoạ rời
++Dung lượng trống: 1GB (Dung lượng sản phẩm thấp hơn nhưng đây là dự trù cho những tình huống sau này)
 
 2.Cách sử dụng
 Khi tải về hay unzip folder rồi vào folder đó kiếm file exe có hình unity với tên trùng với folder (lưu ý khi ấn quá nhiều lần sẽ làm nó tạo ra nhiều cửa sổ và mỗi cửa sổ sẽ có khả năng chạy độc lập vì vẫn đang trong sản phẩm được để ở chế độ Developer )
